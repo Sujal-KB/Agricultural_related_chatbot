@@ -1,0 +1,2402 @@
+[
+    {
+        "id": 1,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for rice farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for rice farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 2,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for wheat farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for wheat farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 3,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for maize farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for maize farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 4,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for millets farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for millets farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 5,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for ragi farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for ragi farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 6,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for sugarcane farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for sugarcane farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 7,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for cotton farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for cotton farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 8,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for coffee farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for coffee farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 9,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for tea farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for tea farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 10,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for areca nut farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for areca nut farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 11,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for coconut farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for coconut farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 12,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for apple farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for apple farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 13,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for banana farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for banana farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 14,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for mango farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for mango farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 15,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for tomato farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for tomato farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 16,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for potato farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for potato farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 17,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for chili farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for chili farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 18,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for onion farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for onion farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 19,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for groundnut farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for groundnut farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 20,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for soybean farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for soybean farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 21,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for rice farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for rice farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 22,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for wheat farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for wheat farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 23,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for maize farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for maize farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 24,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for millets farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for millets farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 25,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for ragi farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for ragi farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 26,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for sugarcane farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for sugarcane farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 27,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for cotton farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for cotton farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 28,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for coffee farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for coffee farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 29,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for tea farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for tea farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 30,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for areca nut farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for areca nut farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 31,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for coconut farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for coconut farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 32,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for apple farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for apple farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 33,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for banana farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for banana farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 34,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for mango farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for mango farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 35,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for tomato farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for tomato farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 36,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for potato farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for potato farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 37,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for chili farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for chili farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 38,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for onion farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for onion farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 39,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for groundnut farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for groundnut farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 40,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for soybean farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for soybean farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 41,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for rice farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for rice farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 42,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for wheat farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for wheat farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 43,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for maize farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for maize farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 44,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for millets farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for millets farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 45,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for ragi farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for ragi farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 46,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for sugarcane farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for sugarcane farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 47,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for cotton farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for cotton farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 48,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for coffee farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for coffee farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 49,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for tea farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for tea farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 50,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for areca nut farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for areca nut farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 51,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for coconut farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for coconut farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 52,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for apple farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for apple farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 53,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for banana farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for banana farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 54,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for mango farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for mango farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 55,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for tomato farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for tomato farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 56,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for potato farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for potato farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 57,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for chili farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for chili farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 58,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for onion farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for onion farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 59,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for groundnut farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for groundnut farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 60,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for soybean farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for soybean farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 61,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for rice farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for rice farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 62,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for wheat farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for wheat farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 63,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for maize farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for maize farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 64,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for millets farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for millets farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 65,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for ragi farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for ragi farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 66,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for sugarcane farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for sugarcane farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 67,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for cotton farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for cotton farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 68,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for coffee farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for coffee farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 69,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for tea farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for tea farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 70,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for areca nut farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for areca nut farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 71,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for coconut farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for coconut farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 72,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for apple farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for apple farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 73,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for banana farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for banana farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 74,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for mango farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for mango farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 75,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for tomato farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for tomato farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 76,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for potato farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for potato farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 77,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for chili farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for chili farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 78,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for onion farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for onion farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 79,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for groundnut farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for groundnut farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 80,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for soybean farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for soybean farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 81,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for rice farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for rice farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 82,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for wheat farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for wheat farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 83,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for maize farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for maize farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 84,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for millets farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for millets farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 85,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for ragi farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for ragi farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 86,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for sugarcane farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for sugarcane farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 87,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for cotton farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for cotton farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 88,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for coffee farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for coffee farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 89,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for tea farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for tea farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 90,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for areca nut farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for areca nut farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 91,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for coconut farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for coconut farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 92,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for apple farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for apple farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 93,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for banana farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for banana farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 94,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for mango farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for mango farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 95,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for tomato farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for tomato farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 96,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for potato farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for potato farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 97,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for chili farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for chili farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 98,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for onion farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for onion farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 99,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for groundnut farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for groundnut farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 100,
+        "category": "Government Schemes",
+        "question": "What government scheme is available for soybean farmers in India?",
+        "answer": "The Government of India offers schemes like PM-KISAN and crop insurance for soybean farmers to provide income support and risk coverage."
+    },
+    {
+        "id": 101,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing rice?",
+        "answer": "For healthy rice growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 102,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing wheat?",
+        "answer": "For healthy wheat growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 103,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing maize?",
+        "answer": "For healthy maize growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 104,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing millets?",
+        "answer": "For healthy millets growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 105,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing ragi?",
+        "answer": "For healthy ragi growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 106,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing sugarcane?",
+        "answer": "For healthy sugarcane growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 107,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing cotton?",
+        "answer": "For healthy cotton growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 108,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing coffee?",
+        "answer": "For healthy coffee growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 109,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing tea?",
+        "answer": "For healthy tea growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 110,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing areca nut?",
+        "answer": "For healthy areca nut growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 111,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing coconut?",
+        "answer": "For healthy coconut growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 112,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing apple?",
+        "answer": "For healthy apple growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 113,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing banana?",
+        "answer": "For healthy banana growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 114,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing mango?",
+        "answer": "For healthy mango growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 115,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing tomato?",
+        "answer": "For healthy tomato growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 116,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing potato?",
+        "answer": "For healthy potato growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 117,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing chili?",
+        "answer": "For healthy chili growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 118,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing onion?",
+        "answer": "For healthy onion growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 119,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing groundnut?",
+        "answer": "For healthy groundnut growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 120,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing soybean?",
+        "answer": "For healthy soybean growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 121,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing rice?",
+        "answer": "For healthy rice growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 122,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing wheat?",
+        "answer": "For healthy wheat growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 123,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing maize?",
+        "answer": "For healthy maize growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 124,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing millets?",
+        "answer": "For healthy millets growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 125,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing ragi?",
+        "answer": "For healthy ragi growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 126,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing sugarcane?",
+        "answer": "For healthy sugarcane growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 127,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing cotton?",
+        "answer": "For healthy cotton growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 128,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing coffee?",
+        "answer": "For healthy coffee growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 129,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing tea?",
+        "answer": "For healthy tea growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 130,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing areca nut?",
+        "answer": "For healthy areca nut growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 131,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing coconut?",
+        "answer": "For healthy coconut growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 132,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing apple?",
+        "answer": "For healthy apple growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 133,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing banana?",
+        "answer": "For healthy banana growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 134,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing mango?",
+        "answer": "For healthy mango growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 135,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing tomato?",
+        "answer": "For healthy tomato growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 136,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing potato?",
+        "answer": "For healthy potato growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 137,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing chili?",
+        "answer": "For healthy chili growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 138,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing onion?",
+        "answer": "For healthy onion growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 139,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing groundnut?",
+        "answer": "For healthy groundnut growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 140,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing soybean?",
+        "answer": "For healthy soybean growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 141,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing rice?",
+        "answer": "For healthy rice growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 142,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing wheat?",
+        "answer": "For healthy wheat growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 143,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing maize?",
+        "answer": "For healthy maize growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 144,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing millets?",
+        "answer": "For healthy millets growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 145,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing ragi?",
+        "answer": "For healthy ragi growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 146,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing sugarcane?",
+        "answer": "For healthy sugarcane growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 147,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing cotton?",
+        "answer": "For healthy cotton growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 148,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing coffee?",
+        "answer": "For healthy coffee growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 149,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing tea?",
+        "answer": "For healthy tea growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 150,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing areca nut?",
+        "answer": "For healthy areca nut growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 151,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing coconut?",
+        "answer": "For healthy coconut growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 152,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing apple?",
+        "answer": "For healthy apple growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 153,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing banana?",
+        "answer": "For healthy banana growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 154,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing mango?",
+        "answer": "For healthy mango growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 155,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing tomato?",
+        "answer": "For healthy tomato growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 156,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing potato?",
+        "answer": "For healthy potato growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 157,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing chili?",
+        "answer": "For healthy chili growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 158,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing onion?",
+        "answer": "For healthy onion growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 159,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing groundnut?",
+        "answer": "For healthy groundnut growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 160,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing soybean?",
+        "answer": "For healthy soybean growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 161,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing rice?",
+        "answer": "For healthy rice growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 162,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing wheat?",
+        "answer": "For healthy wheat growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 163,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing maize?",
+        "answer": "For healthy maize growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 164,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing millets?",
+        "answer": "For healthy millets growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 165,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing ragi?",
+        "answer": "For healthy ragi growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 166,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing sugarcane?",
+        "answer": "For healthy sugarcane growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 167,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing cotton?",
+        "answer": "For healthy cotton growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 168,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing coffee?",
+        "answer": "For healthy coffee growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 169,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing tea?",
+        "answer": "For healthy tea growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 170,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing areca nut?",
+        "answer": "For healthy areca nut growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 171,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing coconut?",
+        "answer": "For healthy coconut growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 172,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing apple?",
+        "answer": "For healthy apple growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 173,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing banana?",
+        "answer": "For healthy banana growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 174,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing mango?",
+        "answer": "For healthy mango growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 175,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing tomato?",
+        "answer": "For healthy tomato growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 176,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing potato?",
+        "answer": "For healthy potato growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 177,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing chili?",
+        "answer": "For healthy chili growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 178,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing onion?",
+        "answer": "For healthy onion growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 179,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing groundnut?",
+        "answer": "For healthy groundnut growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 180,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing soybean?",
+        "answer": "For healthy soybean growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 181,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing rice?",
+        "answer": "For healthy rice growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 182,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing wheat?",
+        "answer": "For healthy wheat growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 183,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing maize?",
+        "answer": "For healthy maize growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 184,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing millets?",
+        "answer": "For healthy millets growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 185,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing ragi?",
+        "answer": "For healthy ragi growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 186,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing sugarcane?",
+        "answer": "For healthy sugarcane growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 187,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing cotton?",
+        "answer": "For healthy cotton growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 188,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing coffee?",
+        "answer": "For healthy coffee growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 189,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing tea?",
+        "answer": "For healthy tea growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 190,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing areca nut?",
+        "answer": "For healthy areca nut growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 191,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing coconut?",
+        "answer": "For healthy coconut growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 192,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing apple?",
+        "answer": "For healthy apple growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 193,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing banana?",
+        "answer": "For healthy banana growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 194,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing mango?",
+        "answer": "For healthy mango growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 195,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing tomato?",
+        "answer": "For healthy tomato growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 196,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing potato?",
+        "answer": "For healthy potato growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 197,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing chili?",
+        "answer": "For healthy chili growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 198,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing onion?",
+        "answer": "For healthy onion growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 199,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing groundnut?",
+        "answer": "For healthy groundnut growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 200,
+        "category": "Fertilizers",
+        "question": "What type of fertilizer is best suited for growing soybean?",
+        "answer": "For healthy soybean growth, use a balanced mix of nitrogen, phosphorus, and potassium fertilizers as recommended by the agricultural department."
+    },
+    {
+        "id": 201,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for rice cultivation?",
+        "answer": "For rice, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 202,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for wheat cultivation?",
+        "answer": "For wheat, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 203,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for maize cultivation?",
+        "answer": "For maize, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 204,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for millets cultivation?",
+        "answer": "For millets, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 205,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for ragi cultivation?",
+        "answer": "For ragi, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 206,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for sugarcane cultivation?",
+        "answer": "For sugarcane, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 207,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for cotton cultivation?",
+        "answer": "For cotton, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 208,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for coffee cultivation?",
+        "answer": "For coffee, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 209,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for tea cultivation?",
+        "answer": "For tea, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 210,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for areca nut cultivation?",
+        "answer": "For areca nut, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 211,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for coconut cultivation?",
+        "answer": "For coconut, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 212,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for apple cultivation?",
+        "answer": "For apple, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 213,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for banana cultivation?",
+        "answer": "For banana, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 214,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for mango cultivation?",
+        "answer": "For mango, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 215,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for tomato cultivation?",
+        "answer": "For tomato, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 216,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for potato cultivation?",
+        "answer": "For potato, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 217,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for chili cultivation?",
+        "answer": "For chili, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 218,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for onion cultivation?",
+        "answer": "For onion, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 219,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for groundnut cultivation?",
+        "answer": "For groundnut, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 220,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for soybean cultivation?",
+        "answer": "For soybean, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 221,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for rice cultivation?",
+        "answer": "For rice, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 222,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for wheat cultivation?",
+        "answer": "For wheat, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 223,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for maize cultivation?",
+        "answer": "For maize, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 224,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for millets cultivation?",
+        "answer": "For millets, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 225,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for ragi cultivation?",
+        "answer": "For ragi, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 226,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for sugarcane cultivation?",
+        "answer": "For sugarcane, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 227,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for cotton cultivation?",
+        "answer": "For cotton, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 228,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for coffee cultivation?",
+        "answer": "For coffee, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 229,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for tea cultivation?",
+        "answer": "For tea, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 230,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for areca nut cultivation?",
+        "answer": "For areca nut, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 231,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for coconut cultivation?",
+        "answer": "For coconut, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 232,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for apple cultivation?",
+        "answer": "For apple, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 233,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for banana cultivation?",
+        "answer": "For banana, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 234,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for mango cultivation?",
+        "answer": "For mango, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 235,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for tomato cultivation?",
+        "answer": "For tomato, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 236,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for potato cultivation?",
+        "answer": "For potato, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 237,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for chili cultivation?",
+        "answer": "For chili, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 238,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for onion cultivation?",
+        "answer": "For onion, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 239,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for groundnut cultivation?",
+        "answer": "For groundnut, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 240,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for soybean cultivation?",
+        "answer": "For soybean, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 241,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for rice cultivation?",
+        "answer": "For rice, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 242,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for wheat cultivation?",
+        "answer": "For wheat, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 243,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for maize cultivation?",
+        "answer": "For maize, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 244,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for millets cultivation?",
+        "answer": "For millets, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 245,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for ragi cultivation?",
+        "answer": "For ragi, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 246,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for sugarcane cultivation?",
+        "answer": "For sugarcane, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 247,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for cotton cultivation?",
+        "answer": "For cotton, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 248,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for coffee cultivation?",
+        "answer": "For coffee, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 249,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for tea cultivation?",
+        "answer": "For tea, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 250,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for areca nut cultivation?",
+        "answer": "For areca nut, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 251,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for coconut cultivation?",
+        "answer": "For coconut, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 252,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for apple cultivation?",
+        "answer": "For apple, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 253,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for banana cultivation?",
+        "answer": "For banana, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 254,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for mango cultivation?",
+        "answer": "For mango, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 255,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for tomato cultivation?",
+        "answer": "For tomato, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 256,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for potato cultivation?",
+        "answer": "For potato, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 257,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for chili cultivation?",
+        "answer": "For chili, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 258,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for onion cultivation?",
+        "answer": "For onion, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 259,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for groundnut cultivation?",
+        "answer": "For groundnut, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 260,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for soybean cultivation?",
+        "answer": "For soybean, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 261,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for rice cultivation?",
+        "answer": "For rice, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 262,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for wheat cultivation?",
+        "answer": "For wheat, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 263,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for maize cultivation?",
+        "answer": "For maize, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 264,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for millets cultivation?",
+        "answer": "For millets, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 265,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for ragi cultivation?",
+        "answer": "For ragi, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 266,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for sugarcane cultivation?",
+        "answer": "For sugarcane, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 267,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for cotton cultivation?",
+        "answer": "For cotton, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 268,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for coffee cultivation?",
+        "answer": "For coffee, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 269,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for tea cultivation?",
+        "answer": "For tea, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 270,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for areca nut cultivation?",
+        "answer": "For areca nut, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 271,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for coconut cultivation?",
+        "answer": "For coconut, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 272,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for apple cultivation?",
+        "answer": "For apple, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 273,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for banana cultivation?",
+        "answer": "For banana, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 274,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for mango cultivation?",
+        "answer": "For mango, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 275,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for tomato cultivation?",
+        "answer": "For tomato, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 276,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for potato cultivation?",
+        "answer": "For potato, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 277,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for chili cultivation?",
+        "answer": "For chili, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 278,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for onion cultivation?",
+        "answer": "For onion, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 279,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for groundnut cultivation?",
+        "answer": "For groundnut, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 280,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for soybean cultivation?",
+        "answer": "For soybean, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 281,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for rice cultivation?",
+        "answer": "For rice, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 282,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for wheat cultivation?",
+        "answer": "For wheat, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 283,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for maize cultivation?",
+        "answer": "For maize, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 284,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for millets cultivation?",
+        "answer": "For millets, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 285,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for ragi cultivation?",
+        "answer": "For ragi, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 286,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for sugarcane cultivation?",
+        "answer": "For sugarcane, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 287,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for cotton cultivation?",
+        "answer": "For cotton, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 288,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for coffee cultivation?",
+        "answer": "For coffee, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 289,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for tea cultivation?",
+        "answer": "For tea, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 290,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for areca nut cultivation?",
+        "answer": "For areca nut, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 291,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for coconut cultivation?",
+        "answer": "For coconut, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 292,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for apple cultivation?",
+        "answer": "For apple, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 293,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for banana cultivation?",
+        "answer": "For banana, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 294,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for mango cultivation?",
+        "answer": "For mango, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 295,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for tomato cultivation?",
+        "answer": "For tomato, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 296,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for potato cultivation?",
+        "answer": "For potato, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 297,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for chili cultivation?",
+        "answer": "For chili, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 298,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for onion cultivation?",
+        "answer": "For onion, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 299,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for groundnut cultivation?",
+        "answer": "For groundnut, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 300,
+        "category": "Pest Control",
+        "question": "What pest control methods can be used for soybean cultivation?",
+        "answer": "For soybean, use biological pest control and neem-based pesticides to prevent common pests while maintaining soil health."
+    },
+    {
+        "id": 301,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested rice?",
+        "answer": "After harvesting rice, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 302,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested wheat?",
+        "answer": "After harvesting wheat, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 303,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested maize?",
+        "answer": "After harvesting maize, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 304,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested millets?",
+        "answer": "After harvesting millets, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 305,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested ragi?",
+        "answer": "After harvesting ragi, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 306,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested sugarcane?",
+        "answer": "After harvesting sugarcane, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 307,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested cotton?",
+        "answer": "After harvesting cotton, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 308,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested coffee?",
+        "answer": "After harvesting coffee, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 309,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested tea?",
+        "answer": "After harvesting tea, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 310,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested areca nut?",
+        "answer": "After harvesting areca nut, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 311,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested coconut?",
+        "answer": "After harvesting coconut, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 312,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested apple?",
+        "answer": "After harvesting apple, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 313,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested banana?",
+        "answer": "After harvesting banana, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 314,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested mango?",
+        "answer": "After harvesting mango, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 315,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested tomato?",
+        "answer": "After harvesting tomato, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 316,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested potato?",
+        "answer": "After harvesting potato, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 317,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested chili?",
+        "answer": "After harvesting chili, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 318,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested onion?",
+        "answer": "After harvesting onion, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 319,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested groundnut?",
+        "answer": "After harvesting groundnut, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 320,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested soybean?",
+        "answer": "After harvesting soybean, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 321,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested rice?",
+        "answer": "After harvesting rice, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 322,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested wheat?",
+        "answer": "After harvesting wheat, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 323,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested maize?",
+        "answer": "After harvesting maize, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 324,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested millets?",
+        "answer": "After harvesting millets, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 325,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested ragi?",
+        "answer": "After harvesting ragi, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 326,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested sugarcane?",
+        "answer": "After harvesting sugarcane, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 327,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested cotton?",
+        "answer": "After harvesting cotton, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 328,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested coffee?",
+        "answer": "After harvesting coffee, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 329,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested tea?",
+        "answer": "After harvesting tea, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 330,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested areca nut?",
+        "answer": "After harvesting areca nut, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 331,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested coconut?",
+        "answer": "After harvesting coconut, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 332,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested apple?",
+        "answer": "After harvesting apple, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 333,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested banana?",
+        "answer": "After harvesting banana, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 334,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested mango?",
+        "answer": "After harvesting mango, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 335,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested tomato?",
+        "answer": "After harvesting tomato, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 336,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested potato?",
+        "answer": "After harvesting potato, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 337,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested chili?",
+        "answer": "After harvesting chili, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 338,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested onion?",
+        "answer": "After harvesting onion, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 339,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested groundnut?",
+        "answer": "After harvesting groundnut, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 340,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested soybean?",
+        "answer": "After harvesting soybean, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 341,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested rice?",
+        "answer": "After harvesting rice, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 342,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested wheat?",
+        "answer": "After harvesting wheat, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 343,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested maize?",
+        "answer": "After harvesting maize, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 344,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested millets?",
+        "answer": "After harvesting millets, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 345,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested ragi?",
+        "answer": "After harvesting ragi, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 346,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested sugarcane?",
+        "answer": "After harvesting sugarcane, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 347,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested cotton?",
+        "answer": "After harvesting cotton, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 348,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested coffee?",
+        "answer": "After harvesting coffee, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 349,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested tea?",
+        "answer": "After harvesting tea, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 350,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested areca nut?",
+        "answer": "After harvesting areca nut, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 351,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested coconut?",
+        "answer": "After harvesting coconut, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 352,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested apple?",
+        "answer": "After harvesting apple, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 353,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested banana?",
+        "answer": "After harvesting banana, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 354,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested mango?",
+        "answer": "After harvesting mango, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 355,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested tomato?",
+        "answer": "After harvesting tomato, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 356,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested potato?",
+        "answer": "After harvesting potato, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 357,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested chili?",
+        "answer": "After harvesting chili, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 358,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested onion?",
+        "answer": "After harvesting onion, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 359,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested groundnut?",
+        "answer": "After harvesting groundnut, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 360,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested soybean?",
+        "answer": "After harvesting soybean, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 361,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested rice?",
+        "answer": "After harvesting rice, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 362,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested wheat?",
+        "answer": "After harvesting wheat, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 363,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested maize?",
+        "answer": "After harvesting maize, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 364,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested millets?",
+        "answer": "After harvesting millets, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 365,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested ragi?",
+        "answer": "After harvesting ragi, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 366,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested sugarcane?",
+        "answer": "After harvesting sugarcane, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 367,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested cotton?",
+        "answer": "After harvesting cotton, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 368,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested coffee?",
+        "answer": "After harvesting coffee, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 369,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested tea?",
+        "answer": "After harvesting tea, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 370,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested areca nut?",
+        "answer": "After harvesting areca nut, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 371,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested coconut?",
+        "answer": "After harvesting coconut, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 372,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested apple?",
+        "answer": "After harvesting apple, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 373,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested banana?",
+        "answer": "After harvesting banana, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 374,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested mango?",
+        "answer": "After harvesting mango, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 375,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested tomato?",
+        "answer": "After harvesting tomato, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 376,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested potato?",
+        "answer": "After harvesting potato, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 377,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested chili?",
+        "answer": "After harvesting chili, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 378,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested onion?",
+        "answer": "After harvesting onion, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 379,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested groundnut?",
+        "answer": "After harvesting groundnut, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 380,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested soybean?",
+        "answer": "After harvesting soybean, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 381,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested rice?",
+        "answer": "After harvesting rice, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 382,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested wheat?",
+        "answer": "After harvesting wheat, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 383,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested maize?",
+        "answer": "After harvesting maize, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 384,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested millets?",
+        "answer": "After harvesting millets, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 385,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested ragi?",
+        "answer": "After harvesting ragi, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 386,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested sugarcane?",
+        "answer": "After harvesting sugarcane, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 387,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested cotton?",
+        "answer": "After harvesting cotton, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 388,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested coffee?",
+        "answer": "After harvesting coffee, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 389,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested tea?",
+        "answer": "After harvesting tea, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 390,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested areca nut?",
+        "answer": "After harvesting areca nut, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 391,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested coconut?",
+        "answer": "After harvesting coconut, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 392,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested apple?",
+        "answer": "After harvesting apple, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 393,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested banana?",
+        "answer": "After harvesting banana, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 394,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested mango?",
+        "answer": "After harvesting mango, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 395,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested tomato?",
+        "answer": "After harvesting tomato, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 396,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested potato?",
+        "answer": "After harvesting potato, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 397,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested chili?",
+        "answer": "After harvesting chili, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 398,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested onion?",
+        "answer": "After harvesting onion, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 399,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested groundnut?",
+        "answer": "After harvesting groundnut, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    },
+    {
+        "id": 400,
+        "category": "Storage Tips",
+        "question": "What are the best storage practices for harvested soybean?",
+        "answer": "After harvesting soybean, ensure proper drying and store in moisture-free containers or cold storage to prevent spoilage."
+    }
+]
